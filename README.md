@@ -72,7 +72,7 @@ I enjoy optimizing applications for performance and learning new technologies �
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=youssefmohamed2k19" />
