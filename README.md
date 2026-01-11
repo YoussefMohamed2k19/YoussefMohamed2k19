@@ -75,16 +75,7 @@ I enjoy optimizing applications for performance and learning new technologies ðŸ
 <h2 align="center">ðŸ“Š GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefmohamed2k19&include_all_commits=true&count_private=true" />
-  <br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=youssefmohamed2k19" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmohamed2k19&layout=compact" />
 </div>
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=youssefmohamed2k19&icon=0&color=0" />
-</p>
 
