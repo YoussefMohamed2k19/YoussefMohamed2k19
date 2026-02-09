@@ -1,81 +1,136 @@
-<h1 align="center">Hi 👋, I'm Youssef Mohamed</h1>
-<h3 align="center">Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<!-- ===================================== -->
+<!--  Youssef Mohamed | GitHub Profile     -->
+<!-- ===================================== -->
 
-<p align="center">
-I’m a passionate full-stack developer from Egypt 🇪🇬  
-I specialize in building scalable web applications, clean APIs, and modern user experiences.
-</p>
+<div align="center">
 
-<p align="center">
-🚀 Turning ideas into real-world products &nbsp;•&nbsp; 🧠 Always learning &nbsp;•&nbsp; ⚡ Clean & performant code
-</p>
+# Hi, I’m Youssef Mohamed 👋  
+### Full-Stack Developer • Problem Solver • Tech Enthusiast
+
+<!-- Typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Building+scalable+web+apps+%F0%9F%9A%80;Clean+APIs+%26+modern+UX+%F0%9F%A7%A0;React+%7C+Django+%7C+Cloud+%7C+Performance" />
+
+<br/>
+
+<!-- Quick links -->
+<a href="https://iamyoussefmohamed.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:Dev.youssefmohamed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/youssefmohamedd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://facebook.com/youssefmuhammed20"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://x.com/Youssefmohame_d"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=youssefmohamed2k19&style=for-the-badge&color=blue" />
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **full-stack web applications**
-- 🌱 Continuously improving my skills in **React, Django, APIs, and Cloud**
-- 🧩 I enjoy solving complex problems and building maintainable systems
+I’m a **Full-Stack Developer from Egypt 🇪🇬** who loves turning ideas into reliable products.  
+I care about **clean architecture, performance, and maintainable code**.
+
+- 🔭 Working on **full-stack web apps** & scalable backends  
+- 🌱 Improving in **React, Django, REST APIs, Cloud (AWS)**  
+- 🧠 Interested in **system design, optimization, and automation**
 - 💬 Ask me about **JavaScript, Python, React, Django, REST APIs**
-- 👨‍💻 All of my projects are available at  
-  👉 **https://iamyoussefmohamed.netlify.app/**
-- 📫 Reach me at **Dev.youssefmohamed@gmail.com**
+- 🌍 Portfolio: **https://iamyoussefmohamed.netlify.app/**
+- 📫 Contact: **Dev.youssefmohamed@gmail.com**
 
 ---
 
 ## 🤝 Open To
 
-- Freelance projects
-- Remote full-time / part-time roles
-- Open-source collaboration
+✅ Freelance projects  
+✅ Remote full-time / part-time roles  
+✅ Open-source collaboration  
+
+> If you have an idea or a role, I can help you ship it faster 🚀
 
 ---
 
-## ⚡ Fun Fact
+## 🧩 What I Build
 
-I enjoy optimizing applications for performance and learning new technologies 🚀
-
----
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/youssefmuhammed20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssefmohamedd)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Youssefmohame_d)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Dev.youssefmohamed@gmail.com)
+- **Web apps** with modern UI and smooth UX  
+- **REST APIs** with authentication, permissions, and documentation  
+- **Dashboards & admin panels**  
+- **Performance improvements** (query tuning, caching, bundles, lighthouse scores)  
+- **CI/CD pipelines** and automated testing
 
 ---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
+## 🧰 Tech Toolbox
+
+<!-- Nice icon strip (optional but looks great) -->
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,py,django,flask,php,postgres,redis,aws,vercel,heroku,git,githubactions,selenium,cypress,bash,powershell&perline=11" />
+
+<br/><br/>
+
+<details>
+  <summary><b>More details (click to expand)</b></summary>
+
+- **Frontend:** React, Next.js, TailwindCSS, Bootstrap  
+- **Backend:** Django, Flask, REST APIs  
+- **DB/Cache:** PostgreSQL, Redis  
+- **DevOps:** AWS, GitHub Actions, Vercel, Heroku  
+- **Testing:** Cypress, Selenium  
+
+</details>
+
+---
+
+## 🌟 Featured Projects
+
+> Add your best 2–4 projects here (pin them on GitHub too).  
+Replace the placeholders below with your real repos.
+
+- 🚀 **Project One** — short 1-line value statement  
+  Repo: `https://github.com/youssefmohamed2k19/REPO_NAME` • Demo: `https://...`
+- 🧠 **Project Two** — short 1-line value statement  
+  Repo: `https://github.com/youssefmohamed2k19/REPO_NAME` • Demo: `https://...`
+- ⚡ **Project Three** — short 1-line value statement  
+  Repo: `https://github.com/youssefmohamed2k19/REPO_NAME` • Demo: `https://...`
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=youssefmohamed2k19" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=youssefmohamed2k19&show_icons=true&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmohamed2k19&layout=compact&hide_border=true" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=youssefmohamed2k19" />
+
+<!-- Optional: activity graph -->
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefmohamed2k19&hide_border=true" />
+
 </div>
 
+---
 
+## ⚡ Fun Fact
+
+I enjoy **optimizing applications for performance** and learning new technologies 🚀
+
+---
+
+## 📬 Let’s Connect
+
+- LinkedIn: https://linkedin.com/in/youssefmohamedd  
+- X: https://x.com/Youssefmohame_d  
+- Facebook: https://facebook.com/youssefmuhammed20  
+- Email: Dev.youssefmohamed@gmail.com  
+
+---
+
+<div align="center">
+
+### “Ship clean code. Ship often.” ✨
+
+</div>
