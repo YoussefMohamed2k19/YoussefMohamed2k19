@@ -36,7 +36,7 @@ I care about **clean architecture, performance, and maintainable code**.
 - 🌱 Improving in **React, Django, REST APIs, Cloud (AWS)**  
 - 🧠 Interested in **system design, optimization, and automation**
 - 💬 Ask me about **JavaScript, Python, React, Django, REST APIs**
-- 🌍 Portfolio: **https://iamyoussefmohamed.netlify.app/**
+- 🌍 Portfolio: **https://youssefhassan.me**
 - 📫 Contact: **Dev.youssefmohamed@gmail.com**
 
 ---
