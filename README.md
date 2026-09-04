@@ -60,9 +60,9 @@ Egypt, designed to inspire bookings and drive inquiries.
 building credibility, and generating leads.
 
 **Currently building** (private company repositories, under NDA)
-Real-time audio streaming with Django Channels, Celery, and LiveKit · event-management SaaS with
-QR check-in, badge printing, and PDF/Excel pipelines · Laravel APIs behind Next.js dashboards ·
-a companion mobile app in React Native · bilingual Arabic–English interfaces
+Real-time audio streaming with Django Channels, Celery, and LiveKit · Laravel APIs behind Next.js
+dashboards for an event-management platform · new Laravel services scaffolded from scratch for the
+team to build on · a companion mobile app in React Native · bilingual Arabic–English interfaces
 throughout.
 
 > More case studies at **[youssefhassan.me](https://youssefhassan.me)**
