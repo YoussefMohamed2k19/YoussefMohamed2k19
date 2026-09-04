@@ -25,13 +25,13 @@ Currently at <b>Pure Minds</b> — Sheikh Zayed, Giza 🇪🇬
 ## About
 
 I'm a Full-Stack Developer with **5+ years** of experience shipping production software — from
-React and Next.js front-ends to Django and Laravel APIs, with Flutter and React Native on mobile.
+React and Next.js front-ends to Django and Laravel APIs, with React Native on mobile.
 
 Most of my work is client-facing product delivery: event platforms, dashboards, and real-time
 systems for organisations including **AstraZeneca**, **Novartis Gulf**, and **SOBI**. I care about
 clean architecture, bilingual (Arabic–English) interfaces, and code that survives handover.
 
-- 🏢 **Full-Stack Developer at Pure Minds** — Next.js, Laravel, Django, Flutter
+- 🏢 **Full-Stack Developer at Pure Minds** — Next.js, Laravel, Django, React Native
 - 🌐 **36 project case studies** at [youssefhassan.me](https://youssefhassan.me)
 - 🗣️ Arabic (native) · English (professional working proficiency)
 - 💬 Ask me about **Next.js, Django REST Framework, Laravel, or real-time systems**
@@ -62,7 +62,7 @@ building credibility, and generating leads.
 **Currently building** (private company repositories, under NDA)
 Real-time audio streaming with Django Channels, Celery, and LiveKit · event-management SaaS with
 QR check-in, badge printing, and PDF/Excel pipelines · Laravel APIs behind Next.js dashboards ·
-companion mobile apps in Flutter and React Native · bilingual Arabic–English interfaces
+a companion mobile app in React Native · bilingual Arabic–English interfaces
 throughout.
 
 > More case studies at **[youssefhassan.me](https://youssefhassan.me)**
@@ -72,7 +72,7 @@ throughout.
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,py,php,dart,react,nextjs,tailwind,django,laravel,flutter,postgres,mysql,redis,docker,nginx,linux,git,githubactions,vercel,supabase,firebase&perline=11" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,php,react,nextjs,tailwind,django,laravel,postgres,mysql,redis,docker,nginx,linux,git,githubactions,vercel,supabase,firebase&perline=10" alt="Tech stack" />
 </div>
 
 <br/>
@@ -82,7 +82,7 @@ throughout.
 
 <br/>
 
-**Languages** — TypeScript · JavaScript · Python · PHP · Dart · SQL · Bash
+**Languages** — TypeScript · JavaScript · Python · PHP · SQL · Bash
 
 **Frontend** — Next.js 16 · React 19 · Tailwind CSS v4 · shadcn/ui · Radix UI ·
 TanStack Query · Zustand · React Hook Form + Zod · Framer Motion · Recharts ·
@@ -94,7 +94,7 @@ Django Channels + Daphne (WebSockets/ASGI) · Redis · PostgreSQL · Gunicorn ·
 **Backend — Laravel** — Laravel · Sanctum · JWT Auth · spatie/laravel-permission ·
 DomPDF · Browsershot · Excel import/export · S3 storage
 
-**Mobile** — React Native (Expo) · Flutter / Dart
+**Mobile** — React Native (Expo)
 
 **Real-time & Media** — LiveKit · WebSockets · Web Push · PDF and QR generation
 
