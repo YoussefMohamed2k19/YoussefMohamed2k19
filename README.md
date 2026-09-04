@@ -1,136 +1,136 @@
-<!-- ===================================== -->
-<!--  Youssef Mohamed | GitHub Profile     -->
-<!-- ===================================== -->
+<!-- ===================================================== -->
+<!--  Youssef Mohamed Hassan | GitHub Profile README      -->
+<!--  Source of truth: BRAND-FACTS.md                     -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-# Hi, I’m Youssef Mohamed 👋  
-### Full-Stack Developer • Problem Solver • Tech Enthusiast
+# Youssef Mohamed Hassan
 
-<!-- Typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Building+scalable+web+apps+%F0%9F%9A%80;Clean+APIs+%26+modern+UX+%F0%9F%A7%A0;React+%7C+Django+%7C+Cloud+%7C+Performance" />
+### Full-Stack Developer · Next.js · Django · Laravel
 
-<br/>
+<p>
+Building production web and mobile products for healthcare, government, and enterprise clients.<br/>
+Currently at <b>Pure Minds</b> — Sheikh Zayed, Giza 🇪🇬
+</p>
 
-<!-- Quick links -->
-<a href="https://youssefhassan.me/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:Dev.youssefmohamed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/youssefmohamedd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://facebook.com/youssefmuhammed20"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://x.com/Youssefmohame_d"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=youssefmohamed2k19&style=for-the-badge&color=blue" />
+<a href="https://youssefhassan.me"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:Dev.youssefmohamed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/youssefmohamedd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I’m a **Full-Stack Developer from Egypt 🇪🇬** who loves turning ideas into reliable products.  
-I care about **clean architecture, performance, and maintainable code**.
+I'm a Full-Stack Developer with **5+ years** of experience shipping production software — from
+React and Next.js front-ends to Django and Laravel APIs, with Flutter and React Native on mobile.
 
-- 🔭 Working on **full-stack web apps** & scalable backends  
-- 🌱 Improving in **React, Django, REST APIs, Cloud (AWS)**  
-- 🧠 Interested in **system design, optimization, and automation**
-- 💬 Ask me about **JavaScript, Python, React, Django, REST APIs**
-- 🌍 Portfolio: **https://youssefhassan.me**
-- 📫 Contact: **Dev.youssefmohamed@gmail.com**
+Most of my work is client-facing product delivery: event platforms, dashboards, and real-time
+systems for organisations including **AstraZeneca**, **Novartis Gulf**, and **SOBI**. I care about
+clean architecture, bilingual (Arabic–English) interfaces, and code that survives handover.
 
----
-
-## 🤝 Open To
-
-✅ Freelance projects  
-✅ Remote full-time / part-time roles  
-✅ Open-source collaboration  
-
-> If you have an idea or a role, I can help you ship it faster 🚀
+- 🏢 **Full-Stack Developer at Pure Minds** — Next.js, Laravel, Django, Flutter
+- 🌐 **36 project case studies** at [youssefhassan.me](https://youssefhassan.me)
+- 🗣️ Arabic (native) · English (professional working proficiency)
+- 💬 Ask me about **Next.js, Django REST Framework, Laravel, or real-time systems**
+- 📫 **Dev.youssefmohamed@gmail.com** — open to select freelance work
 
 ---
 
-## 🧩 What I Build
+## Featured Work
 
-- **Web apps** with modern UI and smooth UX  
-- **REST APIs** with authentication, permissions, and documentation  
-- **Dashboards & admin panels**  
-- **Performance improvements** (query tuning, caching, bundles, lighthouse scores)  
-- **CI/CD pipelines** and automated testing
+**[LEAP Summit — AstraZeneca](https://leap-summit.vercel.app/)** · React · Zoom Meeting SDK
+*Front-End Developer and Integrator.* A polished digital home for an invitation-only neurology
+summit spanning two cities and timezones (Kuwait Day 1 · Dubai Day 2) — healthcare professionals
+explore the programme, meet the speakers, and join live sessions without leaving the browser.
+
+**[Se3rDahab · سعر دهب](https://se3rdahab.com)** · Full-Stack · Next.js
+*My own product.* A free bilingual web app for the Egyptian gold market — live prices across all
+karats updated every minute, plus seven calculators for verifying merchant offers, computing
+Zakat, and tracking investments. No signup, no paywall.
+
+**[Platinum Travel](https://www.platinumtravelegy.com/)** · Next.js · TypeScript · Tailwind
+*Frontend Developer.* A visually rich luxury tourism portal for premium travel experiences in
+Egypt, designed to inspire bookings and drive inquiries.
+
+**[Industria](https://www.industria.ae)** · Next.js · TypeScript
+*Frontend Developer.* Corporate website for a UAE industrial leader — showcasing projects,
+building credibility, and generating leads.
+
+**Currently building** (private company repositories, under NDA)
+Real-time audio streaming with Django Channels, Celery, and LiveKit · event-management SaaS with
+QR check-in, badge printing, and PDF/Excel pipelines · Laravel APIs behind Next.js dashboards ·
+companion mobile apps in Flutter and React Native · bilingual Arabic–English interfaces
+throughout.
+
+> More case studies at **[youssefhassan.me](https://youssefhassan.me)**
 
 ---
 
-## 🧰 Tech Toolbox
+## Tech Stack
 
-<!-- Nice icon strip (optional but looks great) -->
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,py,django,flask,php,postgres,redis,aws,vercel,heroku,git,githubactions,selenium,cypress,bash,powershell&perline=11" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,py,php,dart,react,nextjs,tailwind,django,laravel,flutter,postgres,mysql,redis,docker,nginx,linux,git,githubactions,vercel,supabase,firebase&perline=11" alt="Tech stack" />
+</div>
 
-<br/><br/>
+<br/>
 
 <details>
-  <summary><b>More details (click to expand)</b></summary>
+<summary><b>Full breakdown</b></summary>
 
-- **Frontend:** React, Next.js, TailwindCSS, Bootstrap  
-- **Backend:** Django, Flask, REST APIs  
-- **DB/Cache:** PostgreSQL, Redis  
-- **DevOps:** AWS, GitHub Actions, Vercel, Heroku  
-- **Testing:** Cypress, Selenium  
+<br/>
+
+**Languages** — TypeScript · JavaScript · Python · PHP · Dart · SQL · Bash
+
+**Frontend** — Next.js 16 · React 19 · Tailwind CSS v4 · shadcn/ui · Radix UI ·
+TanStack Query · Zustand · React Hook Form + Zod · Framer Motion · Recharts ·
+Konva · TipTap · dnd-kit · Leaflet · next-intl / i18next
+
+**Backend — Django** — Django 5 · Django REST Framework · SimpleJWT · Celery ·
+Django Channels + Daphne (WebSockets/ASGI) · Redis · PostgreSQL · Gunicorn · Uvicorn
+
+**Backend — Laravel** — Laravel · Sanctum · JWT Auth · spatie/laravel-permission ·
+DomPDF · Browsershot · Excel import/export · S3 storage
+
+**Mobile** — React Native (Expo) · Flutter / Dart
+
+**Real-time & Media** — LiveKit · WebSockets · Web Push · PDF and QR generation
+
+**Testing** — Playwright · Vitest · Testing Library · pytest · PHPUnit
+
+**Infrastructure** — Docker · Nginx · Linux server administration · GitHub Actions ·
+AWS S3 · Vercel · Supabase
 
 </details>
 
 ---
 
-## 🌟 Featured Projects
+## Experience
 
-> Add your best 2–4 projects here (pin them on GitHub too).  
-Replace the placeholders below with your real repos.
-
-- 🚀 **Project One** — short 1-line value statement  
-  Repo: `https://github.com/youssefmohamed2k19/REPO_NAME` • Demo: `https://...`
-- 🧠 **Project Two** — short 1-line value statement  
-  Repo: `https://github.com/youssefmohamed2k19/REPO_NAME` • Demo: `https://...`
-- ⚡ **Project Three** — short 1-line value statement  
-  Repo: `https://github.com/youssefmohamed2k19/REPO_NAME` • Demo: `https://...`
+| Role | Company | Period |
+| --- | --- | --- |
+| Full-Stack Developer | **Pure Minds** | Nov 2025 – Present |
+| Full-Stack Developer | **Yomn** | Aug 2023 – Nov 2025 |
+| Frontend Developer | **Orevan** | Mar 2021 – Aug 2023 |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=youssefmohamed2k19&show_icons=true&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmohamed2k19&layout=compact&hide_border=true" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=youssefmohamed2k19" />
-
-<!-- Optional: activity graph -->
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefmohamed2k19&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YoussefMohamed2k19&show_icons=true&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamed2k19&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
 
----
-
-## ⚡ Fun Fact
-
-I enjoy **optimizing applications for performance** and learning new technologies 🚀
-
----
-
-## 📬 Let’s Connect
-
-- LinkedIn: https://linkedin.com/in/youssefmohamedd  
-- X: https://x.com/Youssefmohame_d  
-- Facebook: https://facebook.com/youssefmuhammed20  
-- Email: Dev.youssefmohamed@gmail.com  
+> Most of my work lives in private client and company repositories, so these graphs show only a
+> slice of it. The full picture is at **[youssefhassan.me](https://youssefhassan.me)**.
 
 ---
 
 <div align="center">
-
-### “Ship clean code. Ship often.” ✨
-
+<sub>Sheikh Zayed, Giza, Egypt · <a href="mailto:Dev.youssefmohamed@gmail.com">Dev.youssefmohamed@gmail.com</a></sub>
 </div>
